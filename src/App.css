@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+/* HomePage.jsx */
+
+#divHomePage{
+  border:2px solid green;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+#h1HomePage{
+  color: rgb(85, 85, 163);
+  font-size: 300%;
+}
+#inputHomePage{
+  border:2px solid green;
+  font-size: 250%;
+  padding-left: 15%;
+  width: 60%;
+}
+#buttonHomePage{
+  border:2px solid green;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(85, 85, 163);
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:30%;
+  height: 70px;
+  font-size: 250%;
+}
+
+/* GamePage */
+
+#divGamePage{
+  border:2px solid green;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+#h1GamePage{
+
+}
+#buttonGamePage{
+  border:2px solid green;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(85, 85, 163);
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:30%;
+  height: 70px;
+  font-size: 250%;
+}
+
+/* Card */
+
+#divCard{
+border: 2px solid blue;
+width: 25%;
+margin: 5%;
+margin-left: 37%;
+font-size: 300%;
+padding-top: 10%;
+padding-bottom: 10%;
+color: black;
+font-weight: bold;
+background-color: lightgray;
+}
+
+/* Score */
+
+#divScore{
+  border:2px solid green;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+}
+
+#buttonScore{
+  border:2px solid green;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(85, 85, 163);
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:30%;
+  height: 70px;
+  font-size: 250%;
+}
+
+/* PlayersTable */
+

@@ -43,7 +43,7 @@ function App() {
       pDeck.push(temp[rnd]);
       temp.splice(rnd, 1);
     }
-    setComDeck([...cDeck]);//שים לב ששם כאן ולא מחוץ ללולאה
+    setComDeck([...cDeck]);
     setPlayerDeck([...pDeck]);
   }
   const playerTable = () => {
